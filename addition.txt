@@ -1,1 +1,1 @@
-This is an additional file used for staging.
+This is an additional file used for staging and commiting.
