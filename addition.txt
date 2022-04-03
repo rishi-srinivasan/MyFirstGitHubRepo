@@ -2,3 +2,5 @@
                     Contents
 ---------------------------------------------------
 This is an additional file used for staging and commiting.
+
+Checking if the new branch works.
