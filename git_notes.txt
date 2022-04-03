@@ -1,1 +1,3 @@
 I am taking my first git classes today - 03/04/2022
+
+Interestingly there are some amazing commands.
