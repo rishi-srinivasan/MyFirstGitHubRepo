@@ -9,3 +9,5 @@ Wonder if this merge works
 Wonder if this merge will work or not
 
 checking git diff command
+
+git diff HEAD check
